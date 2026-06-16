@@ -1,0 +1,16 @@
+export const COLLECTIONS = {
+  USERS: 'users',
+  STUDENTS: 'students',
+  TEACHERS: 'teachers',
+  CLASSES: 'classes',
+  ACADEMIC_YEARS: 'academicYears',
+  PAYMENTS: 'payments',
+  FEEDING_CARDS: 'feedingCards',
+  ASSESSMENTS: 'assessments',
+  SUBMISSIONS: 'submissions',
+  MARKS: 'marks',
+  REPORT_CARDS: 'reportCards',
+  RESOURCES: 'resources',
+  NOTIFICATIONS: 'notifications',
+  ATTENDANCE: 'attendance',
+}
